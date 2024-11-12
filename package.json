@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cypress": "^13.14.2"
+  },
+  "devDependencies": {
+    "cypress-fail-fast": "^7.1.1",
+    "cypress-localstorage-commands": "^2.2.6",
+    "cypress-vite": "^1.5.0"
+  }
+}

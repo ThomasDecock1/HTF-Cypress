@@ -1,0 +1,25 @@
+export const htf = {
+    title: 'h1',
+    actionButton: '#action-button',
+    infoBox: '.typing',
+    name: '#name',
+    age: '#age',
+    species: '#species',
+    planet: '#planet',
+    flickeringText: '.flickering-text > :nth-child(1)',
+    flickeringTextExtraInfo: '.flickering-text > :nth-child(6)',
+    body: 'body',
+    image: 'img',
+    deadBody: '.murder',
+    skipButton: '.ski-button',
+    numpad: '#numpad',
+    numpadText: '.numberpad-content',
+    enterButton: '#enter',
+    inputField: '#inputField',
+    inputButton: '.input',
+    continueLabel: '.continue-content',
+    yesButton: '.buttons > :nth-child(1)',
+    nextButton: '.next > .ng-star-inserted',
+    asteroid: '.floating-cube'
+
+}
