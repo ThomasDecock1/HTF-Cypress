@@ -1,0 +1,6 @@
+cypress/videos/*
+cypress/screenshots/*
+node_modules
+.idea
+cypress/results/*
+cypress/downloads/*

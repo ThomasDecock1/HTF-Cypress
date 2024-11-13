@@ -19,7 +19,7 @@ export const htf = {
     inputButton: '.input',
     continueLabel: '.continue-content',
     yesButton: '.buttons > :nth-child(1)',
+    extraYesButton: '.error >> :nth-child(1)',
     nextButton: '.next > .ng-star-inserted',
     asteroid: '.floating-cube'
-
 }
